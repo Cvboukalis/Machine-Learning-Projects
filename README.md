@@ -8,6 +8,6 @@ This repository contains a showcase of my personal machine learning projects, cr
 - **Tools**: Jupyter Notebook, Git, VS Code
 # Contact
 Christopher Boukalis 
-B.S. in Finance, Univeristy of Illinois Urbana-Champaign
+B.S. in Finance + Data Science | UIUC
 - [GitHub](https://github.com/Cvboukalis)
 - [LinkedIn](https://www.linkedin.com/in/christopher-boukalis/)
