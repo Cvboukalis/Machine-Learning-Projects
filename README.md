@@ -2,7 +2,7 @@
 This repository contains a showcase of my personal machine learning projects, created to improve my understanding and skills in predictive modeling and supervised learning, while exploring different algorithms and datasets. 
 # 📊Project List 
 - **[Wine Quality Prediction Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: A predictive regression model using Decision Trees, K-Nearest Neighbors, and Linear Regression to predict wine quality based on chemical data. 🍷
-- **[Credit Card Fraud Detection Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: A predictive classification model using Decision Trees, K-Nearest Neighbors, and Logistic Regression to classify credit card transactions as fraudulant or legitimate. 
+- **[Credit Card Fraud Detection Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: A predictive classification model using Random Forest, K-Nearest Neighbors, and Logistic Regression to classify credit card transactions as fraudulant or legitimate. 
 # 📚Libraries & Tools 
 - **Languages**: Python
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
