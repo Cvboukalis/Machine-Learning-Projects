@@ -9,5 +9,4 @@ This repository contains a showcase of my personal machine learning projects, cr
 # Contact
 Christopher Boukalis 
 B.S. in Finance + Data Science | UIUC
-- [GitHub](https://github.com/Cvboukalis)
 - [LinkedIn](https://www.linkedin.com/in/christopher-boukalis/)
