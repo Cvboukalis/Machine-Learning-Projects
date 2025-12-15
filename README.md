@@ -1,12 +1,14 @@
-# 「 ✦ Machine Learning Projects ✦ 」
+# 「 Machine Learning Projects  」
 This repository contains a showcase of my personal machine learning projects, created to improve my understanding and skills in predictive modeling and supervised learning, while exploring different algorithms and datasets. 
 # 📊Project List 
-- **[Wine Quality Prediction Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: A predictive regression model using Decision Trees, K-Nearest Neighbors, and Linear Regression to predict wine quality based on chemical data. 🍷
+- **[Wine Quality Prediction Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: Predictive regression model using Decision Trees, K-Nearest Neighbors, and Linear Regression to predict wine quality based on chemical data. 
+- **[Cancer Classification Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Cancer%20Classification%20Model)**: High-dimensional data classifier using feature selection and logistic regression to predict cancer type from ~4,000 gene features.
 # 📚Libraries & Tools 
-- **Languages**: Python
+- **Languages**: Python, SQL
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, Git, VS Code
 # Contact
 Christopher Boukalis 
-B.S. in Finance & Data Science | UIUC
+
+Finance & Data Science | UIUC
 - [LinkedIn](https://www.linkedin.com/in/christopher-boukalis/)
