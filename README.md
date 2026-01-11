@@ -3,7 +3,7 @@ This repository contains a showcase of my personal machine learning projects, cr
 # 📊Project List 
 - **[Wine Quality Prediction Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: Predictive regression model using Decision Trees, K-Nearest Neighbors, and Linear Regression to predict wine quality based on chemical data. 
 - **[Cancer Classification Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Cancer%20Classification%20Model)**: High-dimensional data classifier using feature selection and logistic regression to predict cancer type from ~4,000 gene features.
-- **[Property Value Estimator](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction%20Model)**: Predictive regression model using multiple machine learning algorithms to estimate residential property market value and generate a high-accuracy price range
+- **[Housing Value Estimation Model](https://github.com/Cvboukalis/Machine-Learning-Projects/tree/main/Housing%20Value%20Estimation%20Model)**: XGBoost regression model used to estimate residential houses market values and generate a high-accuracy price range
 # 📚Libraries & Tools 
 - **Languages**: Python, SQL
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
